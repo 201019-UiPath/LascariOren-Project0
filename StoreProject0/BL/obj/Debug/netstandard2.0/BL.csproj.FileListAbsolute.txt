@@ -1,0 +1,9 @@
+C:\Users\orenl\Desktop\code\CarStore\BL\bin\Debug\netstandard2.0\BL.deps.json
+C:\Users\orenl\Desktop\code\CarStore\BL\bin\Debug\netstandard2.0\BL.dll
+C:\Users\orenl\Desktop\code\CarStore\BL\bin\Debug\netstandard2.0\BL.pdb
+C:\Users\orenl\Desktop\code\CarStore\BL\obj\Debug\netstandard2.0\BL.csprojAssemblyReference.cache
+C:\Users\orenl\Desktop\code\CarStore\BL\obj\Debug\netstandard2.0\BL.AssemblyInfoInputs.cache
+C:\Users\orenl\Desktop\code\CarStore\BL\obj\Debug\netstandard2.0\BL.AssemblyInfo.cs
+C:\Users\orenl\Desktop\code\CarStore\BL\obj\Debug\netstandard2.0\BL.csproj.CoreCompileInputs.cache
+C:\Users\orenl\Desktop\code\CarStore\BL\obj\Debug\netstandard2.0\BL.dll
+C:\Users\orenl\Desktop\code\CarStore\BL\obj\Debug\netstandard2.0\BL.pdb
