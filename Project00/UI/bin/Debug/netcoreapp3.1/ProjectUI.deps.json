@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProjectUI/1.0.0": {
+        "dependencies": {
+          "ProjLib": "1.0.0"
+        },
+        "runtime": {
+          "ProjectUI.dll": {}
+        }
+      },
+      "ProjLib/1.0.0": {
+        "runtime": {
+          "ProjLib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectUI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ProjLib/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\bin\Debug\netcoreapp3.1\ProjectUI.exe
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\bin\Debug\netcoreapp3.1\ProjectUI.deps.json
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\bin\Debug\netcoreapp3.1\ProjectUI.runtimeconfig.json
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\bin\Debug\netcoreapp3.1\ProjectUI.runtimeconfig.dev.json
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\bin\Debug\netcoreapp3.1\ProjectUI.dll
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\bin\Debug\netcoreapp3.1\ProjectUI.pdb
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\obj\Debug\netcoreapp3.1\ProjectUI.csprojAssemblyReference.cache
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\obj\Debug\netcoreapp3.1\ProjectUI.AssemblyInfoInputs.cache
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\obj\Debug\netcoreapp3.1\ProjectUI.AssemblyInfo.cs
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\obj\Debug\netcoreapp3.1\ProjectUI.csproj.CoreCompileInputs.cache
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\obj\Debug\netcoreapp3.1\ProjectUI.dll
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\obj\Debug\netcoreapp3.1\ProjectUI.pdb
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\obj\Debug\netcoreapp3.1\ProjectUI.genruntimeconfig.cache
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\bin\Debug\netcoreapp3.1\ProjLib.dll
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\bin\Debug\netcoreapp3.1\ProjLib.pdb
+C:\Users\orenl\Desktop\code\Project00\ProjectUI\obj\Debug\netcoreapp3.1\ProjectUI.csproj.CopyComplete

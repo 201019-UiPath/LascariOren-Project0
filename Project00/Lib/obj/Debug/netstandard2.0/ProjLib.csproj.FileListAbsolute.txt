@@ -1,0 +1,9 @@
+C:\Users\orenl\Desktop\code\Project00\ProjLib\bin\Debug\netstandard2.0\ProjLib.deps.json
+C:\Users\orenl\Desktop\code\Project00\ProjLib\bin\Debug\netstandard2.0\ProjLib.dll
+C:\Users\orenl\Desktop\code\Project00\ProjLib\bin\Debug\netstandard2.0\ProjLib.pdb
+C:\Users\orenl\Desktop\code\Project00\ProjLib\obj\Debug\netstandard2.0\ProjLib.csprojAssemblyReference.cache
+C:\Users\orenl\Desktop\code\Project00\ProjLib\obj\Debug\netstandard2.0\ProjLib.AssemblyInfoInputs.cache
+C:\Users\orenl\Desktop\code\Project00\ProjLib\obj\Debug\netstandard2.0\ProjLib.AssemblyInfo.cs
+C:\Users\orenl\Desktop\code\Project00\ProjLib\obj\Debug\netstandard2.0\ProjLib.csproj.CoreCompileInputs.cache
+C:\Users\orenl\Desktop\code\Project00\ProjLib\obj\Debug\netstandard2.0\ProjLib.dll
+C:\Users\orenl\Desktop\code\Project00\ProjLib\obj\Debug\netstandard2.0\ProjLib.pdb

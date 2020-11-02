@@ -1,0 +1,18 @@
+C:\Users\orenl\Desktop\code\Project00\ProjDB\bin\Debug\netstandard2.0\ProjDB.deps.json
+C:\Users\orenl\Desktop\code\Project00\ProjDB\bin\Debug\netstandard2.0\ProjDB.dll
+C:\Users\orenl\Desktop\code\Project00\ProjDB\bin\Debug\netstandard2.0\ProjDB.pdb
+C:\Users\orenl\Desktop\code\Project00\ProjDB\obj\Debug\netstandard2.0\ProjDB.csprojAssemblyReference.cache
+C:\Users\orenl\Desktop\code\Project00\ProjDB\obj\Debug\netstandard2.0\ProjDB.AssemblyInfoInputs.cache
+C:\Users\orenl\Desktop\code\Project00\ProjDB\obj\Debug\netstandard2.0\ProjDB.AssemblyInfo.cs
+C:\Users\orenl\Desktop\code\Project00\ProjDB\obj\Debug\netstandard2.0\ProjDB.csproj.CoreCompileInputs.cache
+C:\Users\orenl\Desktop\code\Project00\ProjDB\obj\Debug\netstandard2.0\ProjDB.dll
+C:\Users\orenl\Desktop\code\Project00\ProjDB\obj\Debug\netstandard2.0\ProjDB.pdb
+C:\Users\orenl\Desktop\revature code\Project00\ProjDB\bin\Debug\netstandard2.0\ProjDB.deps.json
+C:\Users\orenl\Desktop\revature code\Project00\ProjDB\bin\Debug\netstandard2.0\ProjDB.dll
+C:\Users\orenl\Desktop\revature code\Project00\ProjDB\bin\Debug\netstandard2.0\ProjDB.pdb
+C:\Users\orenl\Desktop\revature code\Project00\ProjDB\obj\Debug\netstandard2.0\ProjDB.csprojAssemblyReference.cache
+C:\Users\orenl\Desktop\revature code\Project00\ProjDB\obj\Debug\netstandard2.0\ProjDB.AssemblyInfoInputs.cache
+C:\Users\orenl\Desktop\revature code\Project00\ProjDB\obj\Debug\netstandard2.0\ProjDB.AssemblyInfo.cs
+C:\Users\orenl\Desktop\revature code\Project00\ProjDB\obj\Debug\netstandard2.0\ProjDB.csproj.CoreCompileInputs.cache
+C:\Users\orenl\Desktop\revature code\Project00\ProjDB\obj\Debug\netstandard2.0\ProjDB.dll
+C:\Users\orenl\Desktop\revature code\Project00\ProjDB\obj\Debug\netstandard2.0\ProjDB.pdb
