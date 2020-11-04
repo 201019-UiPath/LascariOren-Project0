@@ -1,0 +1,9 @@
+C:\Users\orenl\Desktop\code\StoreProject0\DB\bin\Debug\netstandard2.0\DB.deps.json
+C:\Users\orenl\Desktop\code\StoreProject0\DB\bin\Debug\netstandard2.0\DB.dll
+C:\Users\orenl\Desktop\code\StoreProject0\DB\bin\Debug\netstandard2.0\DB.pdb
+C:\Users\orenl\Desktop\code\StoreProject0\DB\obj\Debug\netstandard2.0\DB.csprojAssemblyReference.cache
+C:\Users\orenl\Desktop\code\StoreProject0\DB\obj\Debug\netstandard2.0\DB.AssemblyInfoInputs.cache
+C:\Users\orenl\Desktop\code\StoreProject0\DB\obj\Debug\netstandard2.0\DB.AssemblyInfo.cs
+C:\Users\orenl\Desktop\code\StoreProject0\DB\obj\Debug\netstandard2.0\DB.csproj.CoreCompileInputs.cache
+C:\Users\orenl\Desktop\code\StoreProject0\DB\obj\Debug\netstandard2.0\DB.dll
+C:\Users\orenl\Desktop\code\StoreProject0\DB\obj\Debug\netstandard2.0\DB.pdb
